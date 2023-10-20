@@ -1,0 +1,17 @@
+#menu{
+    display: flex;
+    justify-content: center;
+}
+#menu li{
+    background-color: aqua;
+    margin: 5px;
+    list-style-type: none;
+    display: inline;
+}
+
+#menu1 div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20px;
+}
