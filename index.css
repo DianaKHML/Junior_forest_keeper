@@ -3,19 +3,18 @@
     justify-content: center;
 }
 #menu li{
-    background-color: aqua;
+    background-color: rgb(255, 201, 150);
     margin: 5px;
     list-style-type: none;
     display: inline;
 }
-
+a{
+    color: rgb(68, 36, 0);
+}
 #menu1 div{
     width: 200px;
     height: 200px;
-    background-color: aqua;
+    background-color: rgb(255, 253, 150);
+    color: rgb(146, 66, 0);
     margin: 20px;
-}
-
-#menu{
-    display: flex;
 }
