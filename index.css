@@ -11,10 +11,23 @@
 a{
     color: rgb(68, 36, 0);
 }
-#menu1 div{
-    width: 200px;
-    height: 200px;
+#qwe{
+    text-align: center;
     background-color: rgb(255, 253, 150);
     color: rgb(146, 66, 0);
-    margin: 20px;
+    font-size: 20px;
+   
+}
+#menu1{
+    background-color: red;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    justify-items: center;
+    
+}
+#menu1 div{
+    margin-top: 10px;
+    width: 90%;
+    background-color: rgb(146, 66, 0);
+    color: rgb(255, 253, 150);
 }
