@@ -19,7 +19,6 @@ a{
    
 }
 #menu1{
-    background-color: red;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     justify-items: center;
