@@ -40,3 +40,6 @@ a{
     height: 100%;
     object-fit: contain;
 }
+#opis{
+    color: rgba(46, 56, 37, 0.904);
+}
