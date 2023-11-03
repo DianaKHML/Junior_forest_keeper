@@ -2,13 +2,12 @@ html{
     font-size: 18px;
 }
 body{
-    background: linear-gradient(90deg, rgba(166,255,221,1) 0%, rgba(113,130,193,1) 52%, rgba(173,93,255,1) 100%);
-    
+    background: linear-gradient(90deg, rgba(78,57,52,1) 0%, rgb(204, 189, 89) 50%, rgb(76, 143, 54) 100%);
 }
 #menu{
     display: flex;
     justify-content: center;
-    background-color: rgba(44, 43, 43, 0.705);
+    background: linear-gradient(90deg, rgba(124,69,56,1) 0%, rgb(240, 216, 60) 50%, rgb(85, 189, 50) 100%);
     padding: 5px;
     border-radius: 10px;
     text-align: center;
