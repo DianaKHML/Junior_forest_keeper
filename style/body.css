@@ -1,0 +1,26 @@
+html{
+    font-size: 18px;
+    }
+  body {
+      margin: 0;
+      background-image: url(../image/les3.jpeg);
+      justify-content: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      box-shadow: inset 0 200px 250px 0px rgb(0, 0, 0);
+    }
+  
+    #osnova{
+      text-align: center;
+      
+      box-shadow: 50px;
+      color: #d1dba5;
+      text-shadow: #e2e1b1 1px 0 15px;
+      font-size: 1.2em;
+      max-width: 1200px;
+      margin: auto;
+      border-radius: 10px;
+  }

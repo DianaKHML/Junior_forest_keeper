@@ -1,0 +1,18 @@
+#podval{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+#podval div{
+    width: 100%;
+    margin: 10px;
+    background-color: blueviolet;
+    padding: 5px;
+}
+#osnova{
+    height: 400px;
+}
+#podval div h4{
+    text-align: center;
+}
