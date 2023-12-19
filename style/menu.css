@@ -3,8 +3,14 @@
     color: black;
     font-size: 1.2em;
   }
+  #test{
+    display: flex;
+  }
   #menu{
-    text-align: center;
+    text-align: right;
+  }
+  #logo img{
+    max-width: 14%;
   }
   .menu {
     border-radius: 25px;

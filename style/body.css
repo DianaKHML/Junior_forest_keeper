@@ -15,7 +15,6 @@ html{
   
     #osnova{
       text-align: center;
-      
       box-shadow: 50px;
       color: #d1dba5;
       text-shadow: #e2e1b1 1px 0 15px;
@@ -23,4 +22,9 @@ html{
       max-width: 1200px;
       margin: auto;
       border-radius: 10px;
+      background-color: aqua;
+  }
+
+  #frame{
+    text-align: center;
   }
