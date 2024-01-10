@@ -5,3 +5,5 @@ let summ = a+b+c;
 console.log(summ);
 let text = `Da ${a}`;
 console.log(text)
+
+console.log('123')
